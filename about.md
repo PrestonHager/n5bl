@@ -38,7 +38,7 @@ The Board of Directors of the Mesilla Valley Radio club includes:
 
     Directors At Large:
 
-        Dottie Remenar (Kb%oad)
+        Dottie Remenar (KB5OAD)
         Rhett Harsh (KF5VMD)
         Katie Nixon (KJ5BUA)
         Glen Long (KC4KMY)
