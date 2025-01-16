@@ -22,27 +22,27 @@ calendar year basis.
 
 The Board of Directors of the Mesilla Valley Radio club includes:
 
-    Officers:
+**Officers:**
 
-        President (Pat Chambers, W6VJT)
-        Vice President (Rick Green, AI5DE)
-        Secretary (Bill Gardner, KI5ZHI)
-        Treasurer (Steve Barkes, W5RRX).
+ + President (Pat Chambers, W6VJT)
+ + Vice President (Rick Green, AI5DE)
+ + Secretary (Bill Gardner, KI5ZHI)
+ + Treasurer (Steve Barkes, W5RRX).
 
-    Club Chairs:
+**Club Chairs:**
 
-        Education:  Michael McGarry (KI5TPH)
-        Clubhouse: Gary Gail (WD8AJJ)
-        Repeater: Dave Hassall (WA5DJJ)
-        Communications:  George Kopp (KD5OHA)
+ + Education:  Michael McGarry (KI5TPH)
+ + Clubhouse: Gary Gail (WD8AJJ)
+ + Repeater: Dave Hassall (WA5DJJ)
+ + Communications:  George Kopp (KD5OHA)
 
-    Directors At Large:
+**Directors At Large:**
 
-        Dottie Remenar (KB5OAD)
-        Rhett Harsh (KF5VMD)
-        Katie Nixon (KJ5BUA)
-        Glen Long (KC4KMY)
-        Jerry Gaber (KE6IBU)
+ + Dottie Remenar (KB5OAD)
+ + Rhett Harsh (KF5VMD)
+ + Katie Nixon (KJ5BUA)
+ + Glen Long (KC4KMY)
+ + Jerry Gaber (KE6IBU)
 
 The Directors are responsible for selecting from the membership Managers to be
 responsible for the
