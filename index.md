@@ -22,8 +22,8 @@ PO Box 1443 Las Cruces, NM 88004-1443
 </a>.
 
 Come vist our club at our Monthly meetings!
-The first Saturday of every month at 10:00 AM, at the clubhouse
-(address above).
+The first Saturday of every month at 9:00 AM, at the clubhouse
+(address above).  At Meet & Greet is held prior to the meeting at 8:30 AM.
 If you would like to test for a license, please email our Volunteer
 Examiners first; find the current list at [n5bl.org/examiners][1].
 
